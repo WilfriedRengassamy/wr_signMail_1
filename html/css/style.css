@@ -1,0 +1,22 @@
+.content,
+body {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  min-width: 240.94px;
+}
+
+h1,
+h2 {
+  font-family: "spartan";
+  color: #d9c4b2;
+  list-style-type: none;
+}
+
+.content_links-link {
+  flex-direction: column;
+}
+
+#logo_wr {
+  height: 40.461px;
+}
